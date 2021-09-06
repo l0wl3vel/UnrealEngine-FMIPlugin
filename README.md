@@ -32,7 +32,7 @@ Follow the following steps to get this project up and running on your own comput
 
 - Open the FMIPlugin/FMIPlugin.code-workspace in VS Code
 - Press CTRL+Shift+P and select "Task: Run Build Task" and select "FMIPlugin Linux Development Build" **and** "FMIPluginEditor Linux Development Build"
-- When the build finished successfully open the FMIPlugin.uproject in UE4
+- When the build finished successfully open the FMIPlugin.uproject in UE4 `cd ~/UnrealEngine_4.24/Engine/Binaries/Linux && ./UE4Editor`
 - When warned about the engine version click on "more options" and "Convert in place" (This may take a while)
 
 # Included FMUs
