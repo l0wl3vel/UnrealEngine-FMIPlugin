@@ -14,7 +14,7 @@
 This work was tested using the following. It may work on something else but no gurantees.
 
 - Arch Linux rolling (should not matter, since UE4 ships its own toolchain on linux)
-- Unreal Engine 4.24 source build
+- Unreal Engine 4.26 source build
 - [ue4cli](https://github.com/adamrehn/ue4cli)
 - [Conan UE4 Cli](https://github.com/adamrehn/conan-ue4cli) and l0wl3vels fork of [ue4-conan-recipes](https://github.com/l0wl3vel/ue4-conan-recipes)
 - IDE: VS Code
